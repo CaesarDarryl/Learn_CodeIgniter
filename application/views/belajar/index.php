@@ -1,0 +1,1 @@
+<h1><?php echo $name?> belajar Code Igniter ! </h1>
